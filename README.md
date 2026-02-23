@@ -25,7 +25,7 @@ We use **NeuroSim** to see how different hardware settings affect inference for 
 
 ## Work Split
 
-**Parth (Project Lead)**  
+**Parth**  
 - Overall coordination and deadlines  
 - NeuroSim setup + VGG19 integration  
 - Buffer & PE configs, latency numbers  
